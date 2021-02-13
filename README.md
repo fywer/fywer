@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @fywer
 - 👀 I’m interested in JavaScript y SQL
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Spring Boot
+- 💞️ I’m looking to collaborate on Java
 - 📫 How to reach me ifywerz@gmail.com
 
 <!---
