@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @fywer
 - 👀 I’m interested in JavaScript y SQL
 - 🌱 I’m currently learning SQL
-- 💞️ I’m looking to collaborate on Java
-- 📫 How to reach me ifywerz@gmail.com
+
 
 <!---
 fywer/fywer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
