@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @fywer
-- 👀 I’m interested in JavaScript y SQL
-- 🌱 I’m currently learning SQL
+- 👀 I’m interested in Python
 
 
 <!---
